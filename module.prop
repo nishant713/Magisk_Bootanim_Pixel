@@ -1,0 +1,7 @@
+id=PixelBootanimation
+name=Pixel Light/Dark Bootanimation
+version=v1
+versionCode=1
+author=Nishant
+description=Systemlessly apply Pixel 2 bootanimation (Light/Dark depending on system theme) for android 10 using magisk
+support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
